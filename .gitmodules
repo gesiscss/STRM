@@ -1,0 +1,12 @@
+[submodule "Selection/Text"]
+	path = Selection/Text
+	url = https://github.com/baudm/parseq.git
+[submodule "Selection/Text_Recognition/PARSeq/parseq"]
+	path = Selection/Text_Recognition/PARSeq/parseq
+	url = https://github.com/baudm/parseq.git
+[submodule "Selection/Text_Recognition/WordArt"]
+	path = Selection/Text_Recognition/WordArt
+	url = https://github.com/xdxie/WordArt.git
+[submodule "Selection/Text_Spotting/DeepSolo"]
+	path = Selection/Text_Spotting/DeepSolo
+	url = https://github.com/ViTAE-Transformer/DeepSolo.git
